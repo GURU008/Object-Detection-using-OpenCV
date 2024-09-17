@@ -29,4 +29,4 @@ Object Detection using OpenCV is a project that demonstrates how to use OpenCV f
 - Modify the `config` file or script parameters to suit your needs.
 
 ## Contributing
-Contributions are welcome! Please submit a pull request or open an issue if you have suggestions or improvements.
+Contributions are welcome! 
